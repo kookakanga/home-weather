@@ -1,0 +1,70 @@
+#backgroundImage {
+    background-color: #87CEEB;
+    /*00BFFF
+    ADD8E6
+    background: url(background3.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: left top;
+    background-attachment: fixed;*/
+}
+
+.StdHead h1 {
+    text-align: center;
+}
+
+.StdHead h2 {
+    text-align: center;
+}
+
+footer span{
+    /*      color: #ccc; */
+         transition-delay: 150ms;
+         transition-duration: 1350ms;
+    }
+    
+footer {
+    font-size: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: #303030;
+    color: white;
+    }
+
+footer button {
+    background-color: #04AA6D;
+}
+
+/*Menu*/
+.mainmenu {
+    text-align: center;
+    background-color: #303030;
+    overflow: hidden;
+}
+
+.mainmenu a {
+    float: center;
+    color: lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.mainmenu a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+.mainmenu a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+
+.headerTable {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
