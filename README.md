@@ -1,4 +1,4 @@
-# home-weather
+# Home-weather
 Ever wanted to know weather observations at your location? Now you can.
 
 Home weather is based on a tutorial from https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/ with a twist
